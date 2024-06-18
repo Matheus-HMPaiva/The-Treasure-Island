@@ -35,6 +35,18 @@ if choice1 == "left":
              print("You enter a room of beasts. GAME OVER")
         elif choice3 == 'blue':
              print("You found the treasure, you win!!!")
+             print('''
+            '._==_==_=_.'
+            .-\:      /-.
+           | (|:.     |) |
+            '-|:.     |-'
+              \::.    /
+               '::. .'
+                 ) (
+               _.' '._
+              `"""""""`
+
+                   ''')
         else:
             print("Game OVER")
     else:
